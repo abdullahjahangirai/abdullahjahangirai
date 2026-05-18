@@ -1,28 +1,26 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    HERO ANIMATED BANNER                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   HERO ANIMATED BANNER                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:00A3FF,100:7B2FBE&height=200&section=header&text=Abdullah%20Jahangir&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Automation%20Engineer%20%7C%20Agentic%20AI%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C896,50:00A3FF,100:7B2FBE&amp;height=200&amp;section=header&amp;text=Abdullah%20Jahangir&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20Automation%20Engineer%20%7C%20Agentic%20AI%20Specialist&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" />
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED TYPING TAGLINES                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  ANIMATED TYPING TAGLINES                     -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=00C896&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Architecting+Intelligent+AI+Agents+%F0%9F%A4%96;Engineering+End-to-End+Automation+Pipelines+%E2%9A%99%EF%B8%8F;Orchestrating+LLMs+%2B+RAG+%2B+Real-World+APIs+%F0%9F%94%97;Building+the+Future%2C+One+Workflow+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=00C896&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Architecting+Intelligent+AI+Agents+%F0%9F%A4%96;Engineering+End-to-End+Automation+Pipelines+%E2%9A%99%EF%B8%8F;Orchestrating+LLMs+%2B+RAG+%2B+Real-World+APIs+%F0%9F%94%97;Building+the+Future%2C+One+Workflow+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    QUICK CONTACT STRIP                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   QUICK CONTACT STRIP                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00C896?style=for-the-badge&logoColor=white)](http://abdullah-ai.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white)](http://abdullah-ai.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-jahangir-vertex/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.vertex@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d29f2bd4b8a5170a)
@@ -37,31 +35,23 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED ACTIVITY SNAKE                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                 ANIMATED ACTIVITY SNAKE                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahjahangir123/abdullahjahangir123/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahjahangir123/abdullahjahangir123/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abdullahjahangir123/abdullahjahangir123/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abdullahjahangir123/abdullahjahangir123/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     ABOUT ME SECTION                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3&section=header" width="100%"/>
-</div>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp;About Me
+## 👋 &nbsp;About Me
 
 <table width="100%">
 <tr>
@@ -81,22 +71,23 @@ Status      : Open to Freelance & Full-Time Roles
 
 <br/>
 
-I am a results-driven **AI & Automation Engineer** specialising in the design and deployment of intelligent, production-grade agentic systems. With deep expertise across **n8n**, **LangChain**, **FastAPI**, and **LLM orchestration**, I engineer end-to-end pipelines that eliminate manual friction and transform raw data into actionable intelligence.
+I am a results-driven **AI &amp; Automation Engineer** specialising in the design and deployment of intelligent, production-grade agentic systems. With deep expertise across **n8n**, **LangChain**, **FastAPI**, and **LLM orchestration**, I engineer end-to-end pipelines that eliminate manual friction and transform raw data into actionable intelligence.
 
 Currently spearheading AI initiatives at **Evengers Tech Solution** and **Morphe Labs** — delivering measurable automation ROI for international clients.
 
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" style="border-radius: 16px;"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
 
 <br/><br/>
 
-| 🔭 | Currently building **Multi-Agent AI Systems** |
-|:--:|:--|
-| 🌱 | Deepening expertise in **LangGraph & CrewAI** |
-| 💬 | Ask me about **n8n · FastAPI · LLM Agents** |
-| ⚡ | Fun fact: I automate my own workflows first! |
+<table>
+<tr><td>🔭</td><td>Building <b>Multi-Agent AI Systems</b></td></tr>
+<tr><td>🌱</td><td>Deepening expertise in <b>LangGraph</b></td></tr>
+<tr><td>💬</td><td>Ask me about <b>n8n · FastAPI · LLMs</b></td></tr>
+<tr><td>⚡</td><td>I automate my own workflows first!</td></tr>
+</table>
 
 </td>
 </tr>
@@ -106,81 +97,48 @@ Currently spearheading AI initiatives at **Evengers Tech Solution** and **Morphe
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK SECTION                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp;Technology Arsenal
+## ⚙️ &nbsp;Technology Arsenal
 
 <div align="center">
 
-### ⚙️ Core Engineering
+### 🤖 AI &amp; Machine Learning
 
-<table>
-<tr>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-    <br/>Python
-  </td>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-    <br/>Docker
-  </td>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-    <br/>REST APIs
-  </td>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-    <br/>GitHub
-  </td>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="PostgreSQL" width="65" height="65" />
-    <br/>PostgreSQL
-  </td>
-</tr>
-</table>
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai)
+[![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white)](https://faiss.ai)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6600?style=for-the-badge&logo=yolo&logoColor=white)](https://ultralytics.com)
+[![RAG](https://img.shields.io/badge/RAG_Systems-00C896?style=for-the-badge&logoColor=white)](#)
 
 <br/>
 
-### 🤖 AI & Machine Learning Stack
+### ⚡ Automation &amp; Backend
 
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-FF6600?style=for-the-badge&logo=yolo&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Systems-00C896?style=for-the-badge&logoColor=white" />
-</p>
-
-<br/>
-
-### ⚡ Automation & Backend
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
 
 <br/>
 
-### 🌐 Frontend & Web
+### 🌐 Frontend &amp; Web
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org)
 
 </div>
 
@@ -188,84 +146,78 @@ Currently spearheading AI initiatives at **Evengers Tech Solution** and **Morphe
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   PROFESSIONAL EXPERIENCE                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  PROFESSIONAL EXPERIENCE                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>🚀 Co-Founder & Lead AI Engineer — Evengers Tech Solution &nbsp;|&nbsp; Present</b></summary>
+<summary><b>🚀 Co-Founder &amp; Lead AI Engineer — Evengers Tech Solution &nbsp;|&nbsp; Present</b></summary>
 <br/>
 
 <table>
-<tr>
-<td>
+<tr><td>
 
-> **Co-architected** a full-service AI, automation & web agency from the ground up — managing end-to-end delivery for international clients.
+> **Co-architected** a full-service AI, automation and web agency from the ground up — managing end-to-end delivery for international clients.
 
 **Key Contributions:**
-- 🏗️ **Architected** scalable backend microservices using **Python & FastAPI**, enabling high-throughput, production-grade API layers for AI-driven products
+- 🏗️ **Architected** scalable backend microservices using **Python &amp; FastAPI**, enabling high-throughput, production-grade API layers for AI-driven products
 - ⚙️ **Engineered** complex, multi-step workflow automations using **n8n**, integrating third-party APIs, webhooks, and LLM inference nodes into cohesive pipelines
 - 🤖 **Orchestrated** the technical roadmap for AI, web, and automation project streams across a **10-member cross-functional team**
 - 📈 **Streamlined** client onboarding, delivery workflows, and QA processes — reducing time-to-deployment by a significant margin
 
-</td>
-</tr>
+</td></tr>
 </table>
 <br/>
 </details>
 
 <details open>
-<summary><b>⚙️ AI & Automation Engineer — Morphe Labs &nbsp;|&nbsp; Present (Remote)</b></summary>
+<summary><b>⚙️ AI &amp; Automation Engineer — Morphe Labs &nbsp;|&nbsp; Present (Remote)</b></summary>
 <br/>
 
 <table>
-<tr>
-<td>
+<tr><td>
 
 > **Spearheading** the design and deployment of enterprise-grade automation solutions powered by LLMs and intelligent agent frameworks.
 
 **Key Contributions:**
 - 🔗 **Engineered** end-to-end **n8n automation workflows** — integrating REST APIs, webhooks, LLM inference nodes, and database triggers into resilient, production pipelines
 - 🧠 **Architected** AI agent systems by embedding LLMs into n8n flows, enabling context-aware, decision-making automation at scale
-- 🐍 **Developed** custom Python scripts as n8n nodes — extending native n8n capabilities with bespoke data transformation, NLP preprocessing, and AI inference logic
-- 📊 **Optimized** existing automations for speed, fault tolerance, and scalability — reducing execution time and improving workflow reliability under high-load conditions
+- 🐍 **Developed** custom Python scripts as n8n nodes — extending native capabilities with bespoke data transformation and AI inference logic
+- 📊 **Optimized** existing automations for speed, fault tolerance, and scalability — reducing execution time under high-load conditions
 
-</td>
-</tr>
+</td></tr>
 </table>
 <br/>
 </details>
 
 <details open>
-<summary><b>🎓 AI & Data Science Engineer Intern — Saylani Tech &nbsp;|&nbsp; Oct 2025 – Jan 2026</b></summary>
+<summary><b>🎓 AI &amp; Data Science Engineer Intern — Saylani Tech &nbsp;|&nbsp; Oct 2025 – Jan 2026</b></summary>
 <br/>
 
 <table>
-<tr>
-<td>
+<tr><td>
 
 > **Gained** deep, hands-on engineering experience across the full AI/ML lifecycle — from model training to production API deployment.
 
 **Key Contributions:**
-- 🧬 **Trained, benchmarked, and optimised** multiple ML & deep learning models, applying rigorous evaluation frameworks to improve predictive accuracy
-- ⚡ **Engineered** backend microservices with **FastAPI** — designing RESTful API contracts and asynchronous data pipelines for scalable AI inference
-- 💬 **Architected** a production-ready AI chatbot leveraging **LLMs + Retrieval-Augmented Generation (RAG)**, delivering contextually accurate, grounded responses at runtime
+- 🧬 **Trained, benchmarked, and optimised** multiple ML and deep learning models, applying rigorous evaluation frameworks to improve predictive accuracy
+- ⚡ **Engineered** backend microservices with **FastAPI** — designing RESTful API contracts and async data pipelines for scalable AI inference
+- 💬 **Architected** a production-ready AI chatbot leveraging **LLMs + Retrieval-Augmented Generation (RAG)**, delivering contextually accurate, grounded responses
 - 🌐 **Integrated** the **Google Gemini API** and conducted comparative experiments with **Ollama** (local LLMs) — evaluating latency, accuracy, and cost trade-offs
-- 🤝 **Mentored** fellow students in Python, ML pipelines, and automation debugging — reinforcing a culture of collaborative problem-solving
+- 🤝 **Mentored** fellow students in Python, ML pipelines, and automation debugging
 
-</td>
-</tr>
+</td></tr>
 </table>
 <br/>
 </details>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS SECTION                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS SECTION                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
@@ -274,21 +226,25 @@ Currently spearheading AI initiatives at **Evengers Tech Solution** and **Morphe
 <table>
 <tr>
 <td width="50%">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=abdullahjahangir123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00A3FF&text_color=ffffff&ring_color=00C896&count_private=true" alt="GitHub Stats" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahjahangir123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00A3FF&text_color=ffffff&count_private=true)
+
 </td>
 <td width="50%">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=abdullahjahangir123&theme=tokyonight&hide_border=true&background=0D1117&ring=00C896&fire=00A3FF&currStreakLabel=00C896&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="Streak Stats" />
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=abdullahjahangir123&theme=tokyonight&hide_border=true&background=0D1117&ring=00C896&fire=00A3FF&currStreakLabel=00C896)
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjahangir123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=ffffff&langs_count=10" alt="Top Languages" width="60%"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjahangir123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=ffffff&langs_count=10)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahjahangir123&bg_color=0D1117&color=00C896&line=00A3FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahjahangir123&bg_color=0D1117&color=00C896&line=00A3FF&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -296,9 +252,9 @@ Currently spearheading AI initiatives at **Evengers Tech Solution** and **Morphe
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      FEATURED PROJECTS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Flagship Projects
 
@@ -309,22 +265,24 @@ Currently spearheading AI initiatives at **Evengers Tech Solution** and **Morphe
 <td width="50%" valign="top">
 
 ### 🛍️ Shopify AI Customer Support Bot
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-00C896?style=flat-square)
-![FAISS](https://img.shields.io/badge/-FAISS-00599C?style=flat-square)
 
-Engineered a multimodal AI support agent with **text, voice & image** input processing. Built on RAG + FAISS for grounded, product-aware responses. Integrated with Shopify's product catalog via API for real-time inventory context.
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
+[![RAG](https://img.shields.io/badge/-RAG-00C896?style=flat-square)](#)
+[![FAISS](https://img.shields.io/badge/-FAISS-00599C?style=flat-square)](#)
+
+Engineered a multimodal AI support agent with **text, voice and image** input processing. Built on RAG + FAISS for grounded, product-aware responses with real-time Shopify catalog integration.
 
 </td>
 <td width="50%" valign="top">
 
 ### 👁️ Smart People Counter System
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-FF6600?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-Architected a real-time computer vision pipeline using **YOLOv8 + IoU Tracking** for accurate, frame-level people detection and bidirectional counting. Deployed for physical space analytics use cases.
+[![YOLOv8](https://img.shields.io/badge/-YOLOv8-FF6600?style=flat-square)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](#)
+
+Architected a real-time computer vision pipeline using **YOLOv8 + IoU Tracking** for accurate, frame-level people detection and bidirectional counting. Deployed for physical space analytics.
 
 </td>
 </tr>
@@ -332,21 +290,23 @@ Architected a real-time computer vision pipeline using **YOLOv8 + IoU Tracking**
 <td width="50%" valign="top">
 
 ### 🪙 Crypto Intelligence AI Agent
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-Orchestrated a multi-tool AI agent capable of **live price fetching, news ingestion & market summarisation**. Uses LangChain tool-calling to autonomously route queries across APIs and synthesize investment-grade insights.
+[![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](#)
+
+Orchestrated a multi-tool AI agent capable of **live price fetching, news ingestion and market summarisation**. Uses LangChain tool-calling to autonomously synthesize investment-grade insights.
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 RAG-Powered Knowledge Engine (n8n)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-00C896?style=flat-square)
-![Vector DB](https://img.shields.io/badge/-Vector_DB-7B2FBE?style=flat-square)
+### 📄 RAG Knowledge Engine (n8n)
 
-Engineered a fully no-code/low-code **document-grounded Q&A system** using n8n as the orchestration backbone. Supports dynamic document ingestion, vector embedding, and retrieval-augmented response generation at runtime.
+[![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](#)
+[![RAG](https://img.shields.io/badge/-RAG-00C896?style=flat-square)](#)
+[![VectorDB](https://img.shields.io/badge/-Vector_DB-7B2FBE?style=flat-square)](#)
+
+Engineered a fully low-code **document-grounded Q&A system** using n8n as the orchestration backbone. Supports dynamic document ingestion, vector embedding, and retrieval-augmented responses.
 
 </td>
 </tr>
@@ -354,17 +314,19 @@ Engineered a fully no-code/low-code **document-grounded Q&A system** using n8n a
 <td width="50%" valign="top">
 
 ### 🌐 Adaptive Context-Aware AI Chatbot
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-Built a web-integrated chatbot that dynamically adapts its persona and response style based on the host website's domain and content context — creating a tailored conversational experience per deployment.
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](#)
+
+Built a web-integrated chatbot that dynamically adapts its persona and response style based on the host website's domain — creating a tailored conversational experience per deployment.
 
 </td>
 <td width="50%" valign="top">
 
 ### ⌨️ Web Typing Speed Application
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
+[![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
 
 Crafted a real-time typing performance analyzer with live **WPM, accuracy, and error tracking**. Features progressive difficulty levels and session analytics for measurable skill improvement.
 
@@ -378,11 +340,11 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    EDUCATION & CERTIFICATIONS                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                EDUCATION & CERTIFICATIONS                     -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🎓 Education & Certifications
+## 🎓 Education &amp; Certifications
 
 <table width="100%">
 <tr>
@@ -392,8 +354,8 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 
 | Degree | Institution |
 |:--|:--|
-| 🖥️ DAE — Computer Information Technology | Pioneer Technical College |
-| 🔬 SSC — Science / Biology | Ibrahim Ali Bhai Secondary School |
+| 🖥️ DAE in Computer Information Technology | Pioneer Technical College |
+| 🔬 SSC in Science / Biology | Ibrahim Ali Bhai Secondary School |
 
 </td>
 <td width="50%" valign="top">
@@ -403,7 +365,7 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 | Certification | Issuer |
 |:--|:--|
 | 🤖 Agentic AI | Saylani Mass IT Training (SMIT) |
-| 🧠 AI & Database Science | Saylani Mass IT Training (SMIT) |
+| 🧠 AI and Database Science | Saylani Mass IT Training (SMIT) |
 | 📊 MS Office Suite | Alimagir Institute of Technology |
 
 </td>
@@ -414,15 +376,15 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONNECT & FIND ME                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   CONNECT & FIND ME                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 🌐 Find Me Across the Web
 
 <div align="center">
 
-### 💼 Professional & Freelance
+### 💼 Professional &amp; Freelance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-jahangir-vertex/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d29f2bd4b8a5170a)
@@ -432,7 +394,7 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 
 <br/>
 
-### 👨‍💻 Developer & Knowledge Platforms
+### 👨‍💻 Developer &amp; Knowledge Platforms
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahjahangir123)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32741113/abdullah-jahangir)
@@ -442,7 +404,7 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 
 <br/>
 
-### 📱 Social & Community
+### 📱 Social &amp; Community
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.vertex@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdullah.jahangirai/)
@@ -454,13 +416,9 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FOOTER WAVE BANNER                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00A3FF,100:00C896&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7B2FBE,50:00A3FF,100:00C896&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%"/>
 
 <br/>
 
