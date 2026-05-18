@@ -102,6 +102,7 @@ Karachi, Pakistan
 <p align="left">
   <a href="mailto:abdullah.vertex@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abdullah-jahangir-vertex/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
   <a href="https://www.facebook.com/abdullah.jahangirai/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/abdullahjahangir.ai/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/abdullahjahangir123" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -113,3 +114,25 @@ Karachi, Pakistan
   <img src="https://komarev.com/ghpvc/?username=abdullahjahangir123&label=Profile+Views&color=00C896&style=flat" />
 </p>
 <p align="center">⭐ If you like my work, feel free to star my repositories! ⭐</p>
+---
+
+### 🤝 Connect with Me & Check My Professional Profiles
+<p align="left">
+  <a href="mailto:abdullah.vertex@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/abdullah-jahangir-ai/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/~01d29f2bd4b8a5170a" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="https://www.fiverr.com/abdullah1122750" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+  <a href="https://peerlist.io/abdullahai" target="_blank"><img src="https://img.shields.io/badge/Peerlist-00E1D9?style=for-the-badge&logo=peerlist&logoColor=black"/></a>
+</p>
+
+<p align="left">
+  <a href="https://stackoverflow.com/users/32741113/abdullah-jahangir" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/abdullahkhattanaking" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
+  <a href="https://hashnode.com/@abdullah-jahangir-ai" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://www.producthunt.com/@abdullah_jahangir_ai" target="_blank"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=product-hunt&logoColor=white"/></a>
+</p>
+
+<p align="left">
+  <a href="https://www.facebook.com/abdullah.jahangirai/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/abdullahjahangir.ai/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
