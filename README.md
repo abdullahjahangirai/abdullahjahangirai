@@ -28,8 +28,8 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abdullah.jahangirai&label=Profile+Views&color=00C896&style=for-the-badge)](https://github.com/abdullah.jahangirai)
-[![GitHub Followers](https://img.shields.io/github/followers/abdullah.jahangirai?label=Followers&style=for-the-badge&color=00A3FF&logo=github)](https://github.com/abdullah.jahangirai)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdullahjahangir123&label=Profile+Views&color=00C896&style=for-the-badge)](https://github.com/abdullahjahangir123)
+[![GitHub Followers](https://img.shields.io/github/followers/abdullahjahangir123?label=Followers&style=for-the-badge&color=00A3FF&logo=github)](https://github.com/abdullahjahangir123)
 
 </div>
 
@@ -40,7 +40,7 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abdullah.jahangirai/abdullah.jahangirai/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abdullahjahangir123/abdullahjahangir123/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <br/>
@@ -264,12 +264,12 @@ Currently spearheading AI initiatives at **Morphe Labs** — delivering measurab
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah.jahangirai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00A3FF&text_color=ffffff&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahjahangir123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00A3FF&text_color=ffffff&count_private=true)
 
 </td>
 <td width="50%">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=abdullah.jahangirai&theme=tokyonight&hide_border=true&background=0D1117&ring=00C896&fire=00A3FF&currStreakLabel=00C896)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=abdullahjahangir123&theme=tokyonight&hide_border=true&background=0D1117&ring=00C896&fire=00A3FF&currStreakLabel=00C896)
 
 </td>
 </tr>
@@ -277,11 +277,11 @@ Currently spearheading AI initiatives at **Morphe Labs** — delivering measurab
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah.jahangirai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=ffffff&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjahangir123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=ffffff&langs_count=10)
 
 <br/><br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullah.jahangirai&bg_color=0D1117&color=00C896&line=00A3FF&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahjahangir123&bg_color=0D1117&color=00C896&line=00A3FF&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -432,7 +432,7 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 
 ### 👨‍💻 Developer &amp; Knowledge Platforms
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah.jahangirai)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahjahangir123)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32741113/abdullah-jahangir)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdullahkhattanaking)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@abdullah-jahangir-ai)
