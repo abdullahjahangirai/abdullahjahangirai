@@ -4,7 +4,7 @@
 <!--                   HERO ANIMATED BANNER                        -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:00A3FF,100:7B2FBE&height=200&section=header&text=Abdullah%20Jahangir&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Automation%20Engineer%20%7C%20Agentic%20AI%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C896,50:00A3FF,100:7B2FBE&amp;height=200&amp;section=header&amp;text=Abdullah%20Jahangir&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20Automation%20Engineer%20%7C%20Agentic%20AI%20Specialist&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" />
 
 <br/>
 
@@ -40,7 +40,11 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abdullahjahangir123/abdullahjahangir123/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahjahangir123/abdullahjahangir123/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahjahangir123/abdullahjahangir123/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abdullahjahangir123/abdullahjahangir123/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
@@ -454,7 +458,7 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00A3FF,100:00C896&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7B2FBE,50:00A3FF,100:00C896&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%"/>
 
 <br/>
 
