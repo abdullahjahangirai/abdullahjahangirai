@@ -4,7 +4,7 @@
 <!--                   HERO ANIMATED BANNER                        -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C896,50:00A3FF,100:7B2FBE&amp;height=200&amp;section=header&amp;text=Abdullah%20Jahangir&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20Automation%20Engineer%20%7C%20Agentic%20AI%20Specialist&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:00A3FF,100:7B2FBE&height=200&section=header&text=Abdullah%20Jahangir&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Automation%20Engineer%20%7C%20Agentic%20AI%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <br/>
 
@@ -28,8 +28,8 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abdullahjahangir123&label=Profile+Views&color=00C896&style=for-the-badge)](https://github.com/abdullahjahangir123)
-[![GitHub Followers](https://img.shields.io/github/followers/abdullahjahangir123?label=Followers&style=for-the-badge&color=00A3FF&logo=github)](https://github.com/abdullahjahangir123)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdullah.jahangirai&label=Profile+Views&color=00C896&style=for-the-badge)](https://github.com/abdullah.jahangirai)
+[![GitHub Followers](https://img.shields.io/github/followers/abdullah.jahangirai?label=Followers&style=for-the-badge&color=00A3FF&logo=github)](https://github.com/abdullah.jahangirai)
 
 </div>
 
@@ -40,7 +40,7 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abdullahjahangir123/abdullahjahangir123/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abdullah.jahangirai/abdullah.jahangirai/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <br/>
@@ -71,9 +71,9 @@ Status      : Open to Freelance & Full-Time Roles
 
 <br/>
 
-I am a results-driven **AI &amp; Automation Engineer** specialising in the design and deployment of intelligent, production-grade agentic systems. With deep expertise across **n8n**, **LangChain**, **FastAPI**, and **LLM orchestration**, I engineer end-to-end pipelines that eliminate manual friction and transform raw data into actionable intelligence.
+I am a results-driven **AI & Automation Engineer** specialising in the design and deployment of intelligent, production-grade agentic systems. With deep expertise across **n8n**, **LangChain**, **FastAPI**, and **LLM orchestration**, I engineer end-to-end pipelines that eliminate manual friction and transform raw data into actionable intelligence.
 
-Currently spearheading AI initiatives at **Evengers Tech Solution** and **Morphe Labs** — delivering measurable automation ROI for international clients.
+Currently spearheading AI initiatives at **Morphe Labs** — delivering measurable automation ROI for international clients.
 
 </td>
 <td width="45%" align="center" valign="top">
@@ -153,19 +153,18 @@ Currently spearheading AI initiatives at **Evengers Tech Solution** and **Morphe
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>🚀 Co-Founder &amp; Lead AI Engineer — Evengers Tech Solution &nbsp;|&nbsp; Present</b></summary>
+<summary><b>🐍 Python Programming Intern — Decode Labs &nbsp;|&nbsp; May 2026 – June 2026 (Remote)</b></summary>
 <br/>
 
 <table>
 <tr><td>
 
-> **Co-architected** a full-service AI, automation and web agency from the ground up — managing end-to-end delivery for international clients.
+> **Developed** structured Python micro-projects and backend automation scripts within a mentor-led engineering environment.
 
 **Key Contributions:**
-- 🏗️ **Architected** scalable backend microservices using **Python &amp; FastAPI**, enabling high-throughput, production-grade API layers for AI-driven products
-- ⚙️ **Engineered** complex, multi-step workflow automations using **n8n**, integrating third-party APIs, webhooks, and LLM inference nodes into cohesive pipelines
-- 🤖 **Orchestrated** the technical roadmap for AI, web, and automation project streams across a **10-member cross-functional team**
-- 📈 **Streamlined** client onboarding, delivery workflows, and QA processes — reducing time-to-deployment by a significant margin
+- 🏗️ **Developed** structured Python micro-projects and backend automation scripts delivering clean, modular code
+- ✅ **Completed** 5 modular task assignments ahead of rigorous delivery deadlines — maintaining consistent output quality
+- 👨‍🏫 **Engaged** in mentor-led sessions, code reviews, and milestone evaluations to sharpen engineering fundamentals
 
 </td></tr>
 </table>
@@ -173,7 +172,45 @@ Currently spearheading AI initiatives at **Evengers Tech Solution** and **Morphe
 </details>
 
 <details open>
-<summary><b>⚙️ AI &amp; Automation Engineer — Morphe Labs &nbsp;|&nbsp; Present (Remote)</b></summary>
+<summary><b>⚙️ Backend &amp; Automation Intern — InternGrow Solutions &nbsp;|&nbsp; May 2026 – August 2026 (Remote)</b></summary>
+<br/>
+
+<table>
+<tr><td>
+
+> **Tasked** with designing and delivering an end-to-end 5-stage project pipeline, spanning beginner to enterprise-ready systems.
+
+**Key Contributions:**
+- 🔗 **Designed** and submitted a complete 5-stage project pipeline covering the full spectrum from foundational to professional enterprise-grade systems
+- 📦 **Managed** critical target delivery cycles — handling sequential tasks with precision under structured workflow schemas
+- 🔄 **Integrated** systemic workflow schemas for seamless code handoffs and cross-stage dependency management
+
+</td></tr>
+</table>
+<br/>
+</details>
+
+<details open>
+<summary><b>🤖 Artificial Intelligence Intern — SoftGrowTech &nbsp;|&nbsp; April 2026 – May 2026 (Online)</b></summary>
+<br/>
+
+<table>
+<tr><td>
+
+> **Executed** hands-on AI tasks and project-based machine learning paradigms under industry mentorship.
+
+**Key Contributions:**
+- 🧠 **Executed** hands-on AI tasks and project-based machine learning paradigms across flexible online delivery environments
+- 📤 **Submitted** key project requirements on time — maintaining delivery standards within fast-paced milestone cycles
+- 📐 **Expanded** architectural blueprints for cognitive system training under direct industry mentorship
+
+</td></tr>
+</table>
+<br/>
+</details>
+
+<details open>
+<summary><b>⚙️ AI &amp; Automation Engineer — Morphe Labs &nbsp;|&nbsp; 3 Months (Remote)</b></summary>
 <br/>
 
 <table>
@@ -193,7 +230,7 @@ Currently spearheading AI initiatives at **Evengers Tech Solution** and **Morphe
 </details>
 
 <details open>
-<summary><b>🎓 AI &amp; Data Science Engineer Intern — Saylani Tech &nbsp;|&nbsp; Oct 2025 – Jan 2026</b></summary>
+<summary><b>🎓 AI &amp; Data Science Engineer Intern — Saylani Tech &nbsp;|&nbsp; 3 Months (Oct 2025 – Jan 2026)</b></summary>
 <br/>
 
 <table>
@@ -227,12 +264,12 @@ Currently spearheading AI initiatives at **Evengers Tech Solution** and **Morphe
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahjahangir123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00A3FF&text_color=ffffff&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah.jahangirai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00A3FF&text_color=ffffff&count_private=true)
 
 </td>
 <td width="50%">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=abdullahjahangir123&theme=tokyonight&hide_border=true&background=0D1117&ring=00C896&fire=00A3FF&currStreakLabel=00C896)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=abdullah.jahangirai&theme=tokyonight&hide_border=true&background=0D1117&ring=00C896&fire=00A3FF&currStreakLabel=00C896)
 
 </td>
 </tr>
@@ -240,11 +277,11 @@ Currently spearheading AI initiatives at **Evengers Tech Solution** and **Morphe
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjahangir123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=ffffff&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah.jahangirai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=ffffff&langs_count=10)
 
 <br/><br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahjahangir123&bg_color=0D1117&color=00C896&line=00A3FF&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullah.jahangirai&bg_color=0D1117&color=00C896&line=00A3FF&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -354,7 +391,7 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 
 | Degree | Institution |
 |:--|:--|
-| 🖥️ DAE in Computer Information Technology | Pioneer Technical College |
+| 🖥️ D.A.E. in Computer Information Technology | Pioneer Technical College |
 | 🔬 SSC in Science / Biology | Ibrahim Ali Bhai Secondary School |
 
 </td>
@@ -364,8 +401,7 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 
 | Certification | Issuer |
 |:--|:--|
-| 🤖 Agentic AI | Saylani Mass IT Training (SMIT) |
-| 🧠 AI and Database Science | Saylani Mass IT Training (SMIT) |
+| 🤖 2-Year Agentic AI & Data Science Program | Saylani Mass IT Training (SMIT) |
 | 📊 MS Office Suite | Alimagir Institute of Technology |
 
 </td>
@@ -396,7 +432,7 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 
 ### 👨‍💻 Developer &amp; Knowledge Platforms
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahjahangir123)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah.jahangirai)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32741113/abdullah-jahangir)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdullahkhattanaking)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@abdullah-jahangir-ai)
@@ -418,7 +454,7 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7B2FBE,50:00A3FF,100:00C896&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00A3FF,100:00C896&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <br/>
 
