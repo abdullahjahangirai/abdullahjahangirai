@@ -4,7 +4,7 @@
 <!--                   HERO ANIMATED BANNER                        -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C896,50:00A3FF,100:7B2FBE&amp;height=200&amp;section=header&amp;text=Abdullah%20Jahangir&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20Automation%20Engineer%20%7C%20Agentic%20AI%20Specialist&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:00A3FF,100:7B2FBE&height=200&section=header&text=Abdullah%20Jahangir&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Automation%20Engineer%20%7C%20Agentic%20AI%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 <!--                  ANIMATED TYPING TAGLINES                     -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=00C896&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Architecting+Intelligent+AI+Agents+%F0%9F%A4%96;Engineering+End-to-End+Automation+Pipelines+%E2%9A%99%EF%B8%8F;Orchestrating+LLMs+%2B+RAG+%2B+Real-World+APIs+%F0%9F%94%97;Building+the+Future%2C+One+Workflow+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=00C896&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Architecting+Intelligent+AI+Agents+🤖;Engineering+End-to-End+Automation+Pipelines+⚙️;Orchestrating+LLMs+%2B+RAG+%2B+Real-World+APIs+🔗;Building+the+Future%2C+One+Workflow+at+a+Time+🚀" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -28,8 +28,8 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abdullahjahangir123&label=Profile+Views&color=00C896&style=for-the-badge)](https://github.com/abdullahjahangir123)
-[![GitHub Followers](https://img.shields.io/github/followers/abdullahjahangir123?label=Followers&style=for-the-badge&color=00A3FF&logo=github)](https://github.com/abdullahjahangir123)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdullahjahangirai&label=Profile+Views&color=00C896&style=for-the-badge)](https://github.com/abdullahjahangirai)
+[![GitHub Followers](https://img.shields.io/github/followers/abdullahjahangirai?label=Followers&style=for-the-badge&color=00A3FF&logo=github)](https://github.com/abdullahjahangirai)
 
 </div>
 
@@ -41,9 +41,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahjahangir123/abdullahjahangir123/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahjahangir123/abdullahjahangir123/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abdullahjahangir123/abdullahjahangir123/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahjahangirai/abdullahjahangirai/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahjahangirai/abdullahjahangirai/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abdullahjahangirai/abdullahjahangirai/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
@@ -268,12 +268,12 @@ Currently spearheading AI initiatives at **Morphe Labs** — delivering measurab
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahjahangir123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00A3FF&text_color=ffffff&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahjahangirai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00A3FF&text_color=ffffff&count_private=true)
 
 </td>
 <td width="50%">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=abdullahjahangir123&theme=tokyonight&hide_border=true&background=0D1117&ring=00C896&fire=00A3FF&currStreakLabel=00C896)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=abdullahjahangirai&theme=tokyonight&hide_border=true&background=0D1117&ring=00C896&fire=00A3FF&currStreakLabel=00C896)
 
 </td>
 </tr>
@@ -281,11 +281,11 @@ Currently spearheading AI initiatives at **Morphe Labs** — delivering measurab
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjahangir123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=ffffff&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjahangirai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=ffffff&langs_count=10)
 
 <br/><br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahjahangir123&bg_color=0D1117&color=00C896&line=00A3FF&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahjahangirai&bg_color=0D1117&color=00C896&line=00A3FF&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -436,7 +436,7 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 
 ### 👨‍💻 Developer &amp; Knowledge Platforms
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahjahangir123)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahjahangirai)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32741113/abdullah-jahangir)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdullahkhattanaking)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@abdullah-jahangir-ai)
@@ -458,7 +458,7 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7B2FBE,50:00A3FF,100:00C896&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00A3FF,100:00C896&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <br/>
 
