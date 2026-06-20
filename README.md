@@ -9,10 +9,12 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                  ANIMATED TYPING TAGLINES                     -->
+<!--          ANIMATED TYPING — using svg.io (most reliable)       -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=00C896&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Architecting+Intelligent+AI+Agents+🤖;Engineering+End-to-End+Automation+Pipelines+⚙️;Orchestrating+LLMs+%2B+RAG+%2B+Real-World+APIs+🔗;Building+the+Future%2C+One+Workflow+at+a+Time+🚀" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=00C896&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Architecting+Intelligent+AI+Agents+%F0%9F%A4%96;Engineering+End-to-End+Automation+Pipelines+%E2%9A%99%EF%B8%8F;Orchestrating+LLMs+%2B+RAG+%2B+Real-World+APIs+%F0%9F%94%97;Building+the+Future%2C+One+Workflow+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
@@ -35,6 +37,8 @@
 
 <br/>
 
+---
+
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                 ANIMATED ACTIVITY SNAKE                       -->
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -50,10 +54,6 @@
 <br/>
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME SECTION                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 👋 &nbsp;About Me
 
@@ -101,10 +101,6 @@ Currently spearheading AI initiatives at **Morphe Labs** — delivering measurab
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK SECTION                         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 ## ⚙️ &nbsp;Technology Arsenal
 
 <div align="center">
@@ -150,115 +146,82 @@ Currently spearheading AI initiatives at **Morphe Labs** — delivering measurab
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                  PROFESSIONAL EXPERIENCE                      -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 ## 💼 Professional Experience
 
 <details open>
 <summary><b>🐍 Python Programming Intern — Decode Labs &nbsp;|&nbsp; May 2026 – June 2026 (Remote)</b></summary>
 <br/>
-
-<table>
-<tr><td>
+<table><tr><td>
 
 > **Developed** structured Python micro-projects and backend automation scripts within a mentor-led engineering environment.
 
-**Key Contributions:**
 - 🏗️ **Developed** structured Python micro-projects and backend automation scripts delivering clean, modular code
-- ✅ **Completed** 5 modular task assignments ahead of rigorous delivery deadlines — maintaining consistent output quality
-- 👨‍🏫 **Engaged** in mentor-led sessions, code reviews, and milestone evaluations to sharpen engineering fundamentals
+- ✅ **Completed** 5 modular task assignments ahead of rigorous delivery deadlines
+- 👨‍🏫 **Engaged** in mentor-led sessions, code reviews, and milestone evaluations
 
-</td></tr>
-</table>
-<br/>
+</td></tr></table><br/>
 </details>
 
 <details open>
 <summary><b>⚙️ Backend &amp; Automation Intern — InternGrow Solutions &nbsp;|&nbsp; May 2026 – August 2026 (Remote)</b></summary>
 <br/>
-
-<table>
-<tr><td>
+<table><tr><td>
 
 > **Tasked** with designing and delivering an end-to-end 5-stage project pipeline, spanning beginner to enterprise-ready systems.
 
-**Key Contributions:**
-- 🔗 **Designed** and submitted a complete 5-stage project pipeline covering the full spectrum from foundational to professional enterprise-grade systems
-- 📦 **Managed** critical target delivery cycles — handling sequential tasks with precision under structured workflow schemas
-- 🔄 **Integrated** systemic workflow schemas for seamless code handoffs and cross-stage dependency management
+- 🔗 **Designed** a complete 5-stage project pipeline covering foundational to enterprise-grade systems
+- 📦 **Managed** critical target delivery cycles with precision under structured workflow schemas
+- 🔄 **Integrated** systemic workflow schemas for seamless code handoffs
 
-</td></tr>
-</table>
-<br/>
+</td></tr></table><br/>
 </details>
 
 <details open>
 <summary><b>🤖 Artificial Intelligence Intern — SoftGrowTech &nbsp;|&nbsp; April 2026 – May 2026 (Online)</b></summary>
 <br/>
-
-<table>
-<tr><td>
+<table><tr><td>
 
 > **Executed** hands-on AI tasks and project-based machine learning paradigms under industry mentorship.
 
-**Key Contributions:**
-- 🧠 **Executed** hands-on AI tasks and project-based machine learning paradigms across flexible online delivery environments
-- 📤 **Submitted** key project requirements on time — maintaining delivery standards within fast-paced milestone cycles
-- 📐 **Expanded** architectural blueprints for cognitive system training under direct industry mentorship
+- 🧠 **Executed** hands-on AI tasks across flexible online delivery environments
+- 📤 **Submitted** key project requirements on time within fast-paced milestone cycles
+- 📐 **Expanded** architectural blueprints for cognitive system training
 
-</td></tr>
-</table>
-<br/>
+</td></tr></table><br/>
 </details>
 
 <details open>
 <summary><b>⚙️ AI &amp; Automation Engineer — Morphe Labs &nbsp;|&nbsp; 3 Months (Remote)</b></summary>
 <br/>
+<table><tr><td>
 
-<table>
-<tr><td>
+> **Spearheading** enterprise-grade automation solutions powered by LLMs and intelligent agent frameworks.
 
-> **Spearheading** the design and deployment of enterprise-grade automation solutions powered by LLMs and intelligent agent frameworks.
+- 🔗 **Engineered** end-to-end **n8n automation workflows** integrating REST APIs, webhooks, LLM nodes, and DB triggers
+- 🧠 **Architected** AI agent systems enabling context-aware, decision-making automation at scale
+- 🐍 **Developed** custom Python scripts as n8n nodes for bespoke data transformation
+- 📊 **Optimized** automations for speed, fault tolerance, and scalability
 
-**Key Contributions:**
-- 🔗 **Engineered** end-to-end **n8n automation workflows** — integrating REST APIs, webhooks, LLM inference nodes, and database triggers into resilient, production pipelines
-- 🧠 **Architected** AI agent systems by embedding LLMs into n8n flows, enabling context-aware, decision-making automation at scale
-- 🐍 **Developed** custom Python scripts as n8n nodes — extending native capabilities with bespoke data transformation and AI inference logic
-- 📊 **Optimized** existing automations for speed, fault tolerance, and scalability — reducing execution time under high-load conditions
-
-</td></tr>
-</table>
-<br/>
+</td></tr></table><br/>
 </details>
 
 <details open>
-<summary><b>🎓 AI &amp; Data Science Engineer Intern — Saylani Tech &nbsp;|&nbsp; 3 Months (Oct 2025 – Jan 2026)</b></summary>
+<summary><b>🎓 AI &amp; Data Science Engineer Intern — Saylani Tech &nbsp;|&nbsp; Oct 2025 – Jan 2026</b></summary>
 <br/>
+<table><tr><td>
 
-<table>
-<tr><td>
+> **Gained** deep hands-on experience across the full AI/ML lifecycle — from model training to production API deployment.
 
-> **Gained** deep, hands-on engineering experience across the full AI/ML lifecycle — from model training to production API deployment.
+- 🧬 **Trained, benchmarked, and optimised** multiple ML and deep learning models
+- ⚡ **Engineered** backend microservices with **FastAPI** and async data pipelines
+- 💬 **Architected** a production-ready AI chatbot using **LLMs + RAG**
+- 🌐 **Integrated** Google Gemini API and experimented with **Ollama** local LLMs
+- 🤝 **Mentored** fellow students in Python, ML pipelines, and automation
 
-**Key Contributions:**
-- 🧬 **Trained, benchmarked, and optimised** multiple ML and deep learning models, applying rigorous evaluation frameworks to improve predictive accuracy
-- ⚡ **Engineered** backend microservices with **FastAPI** — designing RESTful API contracts and async data pipelines for scalable AI inference
-- 💬 **Architected** a production-ready AI chatbot leveraging **LLMs + Retrieval-Augmented Generation (RAG)**, delivering contextually accurate, grounded responses
-- 🌐 **Integrated** the **Google Gemini API** and conducted comparative experiments with **Ollama** (local LLMs) — evaluating latency, accuracy, and cost trade-offs
-- 🤝 **Mentored** fellow students in Python, ML pipelines, and automation debugging
-
-</td></tr>
-</table>
-<br/>
+</td></tr></table><br/>
 </details>
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS SECTION                        -->
-<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
@@ -293,37 +256,30 @@ Currently spearheading AI initiatives at **Morphe Labs** — delivering measurab
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 ## 🚀 Flagship Projects
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🛍️ Shopify AI Customer Support Bot
-
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
 [![RAG](https://img.shields.io/badge/-RAG-00C896?style=flat-square)](#)
 [![FAISS](https://img.shields.io/badge/-FAISS-00599C?style=flat-square)](#)
 
-Engineered a multimodal AI support agent with **text, voice and image** input processing. Built on RAG + FAISS for grounded, product-aware responses with real-time Shopify catalog integration.
+Multimodal AI support agent with **text, voice and image** input. Built on RAG + FAISS for grounded, product-aware responses with real-time Shopify catalog integration.
 
 </td>
 <td width="50%" valign="top">
 
 ### 👁️ Smart People Counter System
-
 [![YOLOv8](https://img.shields.io/badge/-YOLOv8-FF6600?style=flat-square)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](#)
 
-Architected a real-time computer vision pipeline using **YOLOv8 + IoU Tracking** for accurate, frame-level people detection and bidirectional counting. Deployed for physical space analytics.
+Real-time computer vision pipeline using **YOLOv8 + IoU Tracking** for accurate, frame-level people detection and bidirectional counting.
 
 </td>
 </tr>
@@ -331,59 +287,29 @@ Architected a real-time computer vision pipeline using **YOLOv8 + IoU Tracking**
 <td width="50%" valign="top">
 
 ### 🪙 Crypto Intelligence AI Agent
-
 [![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](#)
 
-Orchestrated a multi-tool AI agent capable of **live price fetching, news ingestion and market summarisation**. Uses LangChain tool-calling to autonomously synthesize investment-grade insights.
+Multi-tool AI agent for **live price fetching, news ingestion and market summarisation** using LangChain tool-calling.
 
 </td>
 <td width="50%" valign="top">
 
 ### 📄 RAG Knowledge Engine (n8n)
-
 [![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](#)
 [![RAG](https://img.shields.io/badge/-RAG-00C896?style=flat-square)](#)
 [![VectorDB](https://img.shields.io/badge/-Vector_DB-7B2FBE?style=flat-square)](#)
 
-Engineered a fully low-code **document-grounded Q&A system** using n8n as the orchestration backbone. Supports dynamic document ingestion, vector embedding, and retrieval-augmented responses.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Adaptive Context-Aware AI Chatbot
-
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](#)
-
-Built a web-integrated chatbot that dynamically adapts its persona and response style based on the host website's domain — creating a tailored conversational experience per deployment.
-
-</td>
-<td width="50%" valign="top">
-
-### ⌨️ Web Typing Speed Application
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
-[![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
-
-Crafted a real-time typing performance analyzer with live **WPM, accuracy, and error tracking**. Features progressive difficulty levels and session analytics for measurable skill improvement.
+Low-code **document-grounded Q&A system** using n8n. Supports dynamic document ingestion, vector embedding, and retrieval-augmented responses.
 
 </td>
 </tr>
 </table>
-
 </div>
 
 <br/>
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                EDUCATION & CERTIFICATIONS                     -->
-<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 🎓 Education &amp; Certifications
 
@@ -395,7 +321,7 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 
 | Degree | Institution |
 |:--|:--|
-| 🖥️ D.A.E. in Computer Information Technology | Pioneer Technical College |
+| 🖥️ D.A.E. Computer Information Technology | Pioneer Technical College |
 | 🔬 SSC in Science / Biology | Ibrahim Ali Bhai Secondary School |
 
 </td>
@@ -415,10 +341,6 @@ Crafted a real-time typing performance analyzer with live **WPM, accuracy, and e
 <br/>
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   CONNECT & FIND ME                           -->
-<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 🌐 Find Me Across the Web
 
